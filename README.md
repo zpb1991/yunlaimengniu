@@ -1,6 +1,6 @@
 # yunlaimengniu
 
-#添加base.css文件；aaaaaaaaaaaaaaaaaa
+#添加base.css文件；
 #meta头部：
 	#<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
 	#苹果专有：
