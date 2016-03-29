@@ -1,6 +1,6 @@
 # yunlaimengniu
 
-#添加base.css文件；aaaaaaaaaaaaaaaaaa
+#添加base.css文件；
 #meta头部：
 	#<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
 	#苹果专有：
@@ -18,3 +18,5 @@
 	#<meta name="screen-orientation" content="portrait">
 	#<!-- QQ强制竖屏 -->
 	#<meta name="x5-orientation" content="portrait">
+
+#第一页编写完毕

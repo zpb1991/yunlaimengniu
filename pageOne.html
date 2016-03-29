@@ -1,0 +1,38 @@
+<!-- code by cwl -->    	
+<!doctype html> 
+<html> 
+<head> 
+<meta charset="utf-8"> 
+<title>蒙牛滴滴打车领奖页</title>
+<meta name="description" content="蒙牛滴滴打车领奖页" />
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no,email=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="screen-orientation" content="portrait">
+<meta name="x5-orientation" content="portrait">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/pageOne.css">
+<script>
+(function(win,doc){
+	win.onload=win.onresize=function(){
+		doc.documentElement.style.fontSize=20*doc.documentElement.clientWidth/320+'px'
+	};
+})(window,document);
+</script>
+</head>
+<body>
+	<div class="warp">
+		<div class="inputTex">
+			<input type="text" placeholder="在此输入券码" data-tips="请输入10位数字券码">
+			<span class="hand"></span>
+			<span class="errTip">*请输入10位数字券码</span>
+		</div>
+		<div class="tips1"></div>
+		<h1 class="logo">蒙牛牛奶</h1>
+		<div class="tips2"></div>
+		<a href="javascript:;"  class="proving">开始验证</a>
+	</div>
+</body>
+</html>

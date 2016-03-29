@@ -1,0 +1,12 @@
+html{font-size: 20px;}
+body,html{width:100%; height:100%; background: #f4f4f4; padding-top:2.075rem; padding-bottom:2.4rem;}
+.warp{width:100%; height:100%; display:-webkit-box; padding-top: 1rem;}
+.inputTex{width:12.3rem; height:3.05rem; background: #fff; border:2px dashed #6085b6; margin:0 auto; box-sizing:border-box; display:-webkit-box; -webkit-box-pack:center;-webkit-box-align:center; position: relative;}
+.inputTex input{width:11.4rem; height:2.2rem; border:2px #486488 solid; -webkit-box-shadow: inset 0 0 20px 1px #e4e4e4 ;font-size: 0.9rem;
+ }
+ .errTip{position:absolute; top:-2rem; left:0; height:2rem; width:100%; text-align: center; line-height: 2rem; color:red; display: none;}
+ .hand{position: absolute; width:2.5rem; height:3.45rem; background: url(../images/hand100~138.png) no-repeat; background-size: 2.5rem 3.45rem; top:1rem; right:1rem; }
+ .tips1{width:8.225rem;height:2.55rem; margin: 0 auto; background: url(../images/page329~102.png) no-repeat; background-size: 8.225rem 2.55rem; margin-top: 1.8rem;}
+h1{width:4.25rem; height:1.775rem; background: url(../images/logo170~71.png) no-repeat; background-size:4.25rem  1.775rem; text-indent: -99999em; margin:0 auto; margin-top: 1.7rem;}
+ .tips2{width:8.225rem;height:3.8rem; margin: 0 auto; background: url(../images/329~152.png) no-repeat; background-size: 8.225rem 3.8rem; margin-top: 1.7rem;}
+.proving{display: block;  width:10.25rem; height:2.75rem; background: #00a2df; font-size: 1.25rem; color:#fff; margin:0 auto; margin-top:2.15rem; text-align:center; line-height: 2.75rem; border-radius: 0.3rem; margin-bottom:2.4rem;}
